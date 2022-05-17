@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Successful Balanced Life</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Category</string>
+    <string name="title_teams">Teams</string>
+    <string name="title_pokedex">Pokedex</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_daily_goal">Daily Goals</string>
+    <string name="nav_short_goal">Short Goals</string>
+    <string name="nav_long_goal">Long Goals</string>
+    <string name="title_home">Home</string>
+    <string name="title_insights">insights</string>
+    <string name="title_stats">stats</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Balanced Successful life</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="category">category</string>
+</resources>

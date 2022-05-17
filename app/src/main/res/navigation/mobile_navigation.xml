@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home"
+    >
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.successful_balanced_life.view.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home"
+        />
+
+   <fragment
+        android:id="@+id/nav_category"
+        android:name="com.example.successful_balanced_life.view.category.CategoryFragment"
+        android:label="@string/menu_category"
+        tools:layout="@layout/fragment_category"
+       />
+
+    <fragment
+        android:id="@+id/nav_long_goal"
+        android:name="com.example.successful_balanced_life.view.goal.LongGoalFragment"
+        android:label="Long goal"
+        tools:layout="@layout/fragment_long_goal"
+        />
+
+    <fragment
+        android:id="@+id/nav_short_goal"
+        android:name="com.example.successful_balanced_life.view.goal.ShortGoalFragment"
+        android:label="Short goal"
+        tools:layout="@layout/fragment_short_goal"
+        />
+
+
+    <fragment
+        android:id="@+id/category_details_fragment"
+        android:name="com.example.successful_balanced_life.view.category_details.CategoryDetailsFragment"
+        android:label="Category Details"
+        tools:layout="@layout/fragment_category_details"
+        />
+
+        <fragment
+            android:id="@+id/create_goal_fragment"
+            android:name="com.example.successful_balanced_life.view.create_goal.CreateGoalFragment"
+            android:label="Create Goal"
+            tools:layout="@layout/fragment_create_goal"
+            />
+
+    <fragment
+        android:id="@+id/edit_goal_fragment"
+        android:name="com.example.successful_balanced_life.view.goal.FragmentEditGoal"
+        android:label="View Goal"
+        tools:layout="@layout/fragment_edit_goal"
+        />
+
+
+</navigation>

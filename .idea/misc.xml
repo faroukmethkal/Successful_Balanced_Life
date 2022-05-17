@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.2425" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/drawable/background_side_nav_bar.xml" value="0.246" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.281" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/drawable/ic_menu_longGoal.xml" value="0.3115" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/drawable/ic_menu_share.xml" value="0.2415" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/drawable/ic_pokedex.xml" value="0.246" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/drawable/ic_teams.xml" value="0.246" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/app_bar_main.xml" value="0.2608695652173913" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/category_list_item.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/content_main.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_category.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_category_details.xml" value="0.27109375" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_create_goal.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_edit_goal.xml" value="0.25" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_long_goal.xml" value="0.19583333333333333" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_short_goal.xml" value="0.209375" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/fragment_slideshow.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/goal_list_item.xml" value="0.3614583333333333" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/nav_header_main.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/layout/navigation_drawer_header.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/menu/appbar.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/menu/bottom_nav.xml" value="0.3625" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/menu/main.xml" value="0.2125" />
+        <entry key="..\:/VIA/Fourth Semester/AND/Hand_in/Code/app/src/main/res/menu/main_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

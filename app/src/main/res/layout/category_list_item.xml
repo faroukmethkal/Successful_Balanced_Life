@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="@color/cardview_light_background"
+    >
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="51dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_menu_category" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="312dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Name"
+        android:textSize="24dp"
+        />
+
+
+</LinearLayout>

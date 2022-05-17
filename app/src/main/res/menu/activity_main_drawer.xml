@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_menu_category"
+            android:title="@string/menu_category" />
+
+    </group>
+    <item android:title="Goals">
+
+        <menu>
+            <item
+                android:id="@+id/nav_short_goal"
+                android:icon="@drawable/ic_goal_short"
+                android:title="@string/nav_short_goal" />
+            <item
+                android:id="@+id/nav_long_goal"
+                android:icon="@drawable/ic_menu_long_goal"
+                android:title="@string/nav_long_goal" />
+
+        </menu>
+
+    </item>
+
+    <item android:title="Status">
+        <menu>
+            <item
+                android:id="@+id/nav_status"
+                android:icon="@drawable/ic_menu_stats"
+                android:title="@string/title_stats" />
+        </menu>
+    </item>
+</menu>
